@@ -25,8 +25,8 @@
         <module name="betscreener" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="betscreener" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="betscreener" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
